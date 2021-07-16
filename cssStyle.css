@@ -1,0 +1,39 @@
+*{
+	margin:auto;
+}
+
+html {
+	text-align: center;
+	font-size: 1em;
+}
+
+table {
+	text-align: center;
+}
+
+h1 {
+	margin: 1.5rem;
+	font-size: 3rem;
+}
+td {
+	border: 2px solid;
+	width: 2rem;
+	height: 2rem;
+	text-align: center;
+	font-weight: bold;
+	background-color: #dedede; 
+}
+
+.bomb {
+	background-color: red;
+}
+
+.unclick {
+	font-size: 0px ;
+	background-color: white;
+}
+
+.endP{
+	margin: 1em;
+	font-size: 2rem;
+}
